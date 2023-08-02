@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "ejercicio"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
